@@ -1,0 +1,49 @@
+body {
+	background-color: Black; text-align: center; width: 80%; margin: auto;
+} 
+img {width: 500px
+; height: 550px; text-align: center; display: block; margin: 0 auto 0 auto;}
+
+.movieimages {width: 550px; height: 550px;}
+p {font-family:'IM Fell Double Pica', serif; font-size: 20px; color: white;
+ margin-top: 15px;text-align: center;}
+
+h2 {font-family:'IM Fell Double Pica', serif;
+padding: 1em; text-align: center ;
+color:White; font-size: 20px}
+h1 {text-align-last: center; color: DarkGray; font-family: 'Montserrat Subrayada', sans-serif; font-size: 55px}
+
+div {display: flex; flex-flow: wrap;}
+span {color: white; text-align: center; display: block; padding-top: 3em; font-size: 11px;}
+
+q {font-family:'IM Fell Double Pica', serif;
+margin-bottom: 5px; text-align: center;
+color: White; font-size: 25px}
+
+.titles {font-family:'IM Fell Double Pica', serif;
+margin-bottom: 40px; text-align: center ;
+color:White; font-size: 20px}
+
+#quotes{border: 2px solid gray; background-color: gray; display: block; font-family: 'IM Fell Doube Pica', serif; margin-bottom: 5px; text-align: center; color: white; font-size:25px;}
+/*quotes nested under 'q' to create quotation marks correctly*/ 
+
+.menu {font-family: 'IM Fell Doube Pica', serif; color: white; text-align: 
+	center; padding-top: 3em; font-size: 13px; margin-left: auto; margin-right: auto;}
+a {font-family:'IM Fell Double Pica', serif; font-size: 13px; text-align: center; 
+color: white;} /*To prevent hyperlinks from appearing purple creating contrast on page*/
+
+h5 {font-family:'IM Fell Double Pica', serif; font-size: 32px; text-align: center; 
+color: white;}
+
+hr.solid {
+  border-top: 3px solid #bbb;}
+
+table, th {border: 2px solid; border-color: dimgray;}
+
+
+
+
+
+
+
+
